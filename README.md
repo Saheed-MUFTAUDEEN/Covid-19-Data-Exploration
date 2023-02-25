@@ -21,7 +21,8 @@ After analyzing the data, the project gained several insights into the pandemic'
 
 - The total covid-19 confirmed cases was 670,711,800 cases.
 - The total death recorded was 6,814,078.
-- the g;obal percentage death was 1.02 percent. 
+- the global percentage death was 1.02 percent. 
+- 10,860,775,485 people have been vaccinated globally.
 - United state, India, France, Germany and Brazil were top 4 countries with heighest number of confirmed cases. 
 - United state, Brazil, India, and Russia, were top 4 countries with heighest deaths. 
 - United state, Brazil, India, and Russia, were top 4 countries with heighest deaths. 
