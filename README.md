@@ -10,7 +10,7 @@ The data used in this project comes from Johns Hopkins University (JHU) availabl
 
 ## SQL Queries 
 
-To extract insights from the data, the project uses several SQL queries. These queries focus on analyzing the data by location, date, poplation, and other relevant factors. Some of the key queries used in the project include:
+To extract insights from the data, the project uses several SQL queries. These queries focus on analyzing the data by location, date, population, and other relevant factors. Some of the key queries used in the project include:
 
 - Query to calculate the total number of COVID-19 cases and deaths.
 - Query to calculate the global death percentage.
